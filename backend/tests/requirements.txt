@@ -1,0 +1,2 @@
+# Groww SIP Behavioral Discovery Pipeline - backend test deps
+pytest>=8.0.0
